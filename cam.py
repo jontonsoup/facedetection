@@ -39,4 +39,4 @@ while(True):
     #box(rects, img)
     send_request(rects)
     call(["rm", "image.jpg"])
-    time.sleep(5)
+    time.sleep(1)
